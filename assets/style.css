@@ -19,6 +19,15 @@ a:hover { text-decoration: underline; }
 .timeline { background: #f0fdf4; border-left: 4px solid #16a34a; padding: 1rem; margin: 1rem 0; border-radius: 0 8px 8px 0; }
 img { max-width: 100%; height: auto; border-radius: 8px; margin: 1rem 0; }
 hr { border: none; border-top: 1px solid #e5e5e5; margin: 2rem 0; }
+/* Tab navigation */
+.tab-nav { display: flex; gap: 0; margin: 1.5rem 0 1rem; border-bottom: 2px solid #e5e5e5; }
+.tab-btn { flex: 1; padding: 0.75rem 1rem; background: transparent; border: none; border-bottom: 3px solid transparent; font-size: 1rem; font-weight: 600; color: #666; cursor: pointer; transition: all 0.2s; }
+.tab-btn:hover { color: #2563eb; background: #f8fafc; }
+.tab-btn.active { color: #2563eb; border-bottom-color: #2563eb; }
+.tab-panel { display: none; }
+.tab-panel.active { display: block; animation: fadeIn 0.2s ease; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+
 footer { text-align: center; color: #999; font-size: 0.85rem; padding: 2rem; border-top: 1px solid #e5e5e5; margin-top: 3rem; }
 .date-link { display: block; padding: 1rem; background: white; border: 1px solid #e5e5e5; border-radius: 8px; margin-bottom: 0.8rem; transition: all 0.2s; }
 .date-link:hover { border-color: #2563eb; transform: translateX(4px); }
