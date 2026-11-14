@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://impact-radar.mingeliu.workers.dev/2026-11-15.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://impact-radar.mingeliu.workers.dev/2026-11-14-TEST.html</loc>
+    <lastmod>2026-11-14-TEST</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/2026-11-14.html</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>never</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/2026-11-13-TEST.html</loc>
@@ -1138,7 +1150,7 @@
     <loc>https://impact-radar.mingeliu.workers.dev/deep/2026-11-14.html</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>never</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/deep/2026-11-13.html</loc>
@@ -1478,25 +1490,25 @@
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/tag/ai.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/tag/cybersecurity.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/tag/fintech.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/tag/cloud-computing.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1514,7 +1526,7 @@
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/tag/biotech-medical.html</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1526,7 +1538,7 @@
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/tag/telecommunications.html</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1580,7 +1592,7 @@
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/8044.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1850,7 +1862,7 @@
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/2614.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1868,13 +1880,13 @@
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/6741.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/6763.html</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1934,7 +1946,7 @@
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/2432.html</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1963,6 +1975,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://impact-radar.mingeliu.workers.dev/stock/6497.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://impact-radar.mingeliu.workers.dev/stock/4152.html</loc>
+    <lastmod>2026-11-14-TEST</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://impact-radar.mingeliu.workers.dev/stock/7747.html</loc>
+    <lastmod>2026-11-14-TEST</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/3669.html</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -1970,7 +2000,7 @@
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/6404.html</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2065,12 +2095,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://impact-radar.mingeliu.workers.dev/stock/6497.html</loc>
-    <lastmod>2026-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/2453.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -2126,7 +2150,7 @@
   </url>
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/7765.html</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2191,12 +2215,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://impact-radar.mingeliu.workers.dev/stock/7747.html</loc>
-    <lastmod>2026-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/1268.html</loc>
     <lastmod>2026-11-13-TEST</lastmod>
     <changefreq>weekly</changefreq>
@@ -2241,12 +2259,6 @@
   <url>
     <loc>https://impact-radar.mingeliu.workers.dev/stock/8299.html</loc>
     <lastmod>2026-07-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://impact-radar.mingeliu.workers.dev/stock/4152.html</loc>
-    <lastmod>2026-11-11-TEST</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
